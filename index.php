@@ -1,4 +1,4 @@
 <?
-echo "Helo World"
+echo "Ola World"
 
 ?>
